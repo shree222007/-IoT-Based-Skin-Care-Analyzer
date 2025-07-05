@@ -1,0 +1,821 @@
+{
+  "olive_low_low": {
+      "morning_routine": [
+        "Cream Cleanser",
+        "Hydrating Toner",
+        "Hyaluronic Acid Serum",
+        "Rich Moisturizer",
+        "SPF 30+ Sunscreen"
+      ],
+      "night_routine": [
+        "Cleansing Balm",
+        "Hydrating Toner",
+        "Peptide Serum",
+        "Rich Night Cream",
+        "Facial Oil"
+      ]
+  },
+  "tan_brown_low_low": {
+      "morning_routine": [
+        "Cream Cleanser",
+        "Hydrating Toner",
+        "Hyaluronic Acid Serum",
+        "Rich Moisturizer",
+        "SPF 30+ Sunscreen"
+      ],
+      "night_routine": [
+        "Cleansing Balm",
+        "Hydrating Toner",
+        "Peptide Serum",
+        "Rich Night Cream",
+        "Facial Oil"
+      ]    
+  },
+  "medium_low_low": {
+      "morning_routine": [
+        "Cream Cleanser",
+        "Hydrating Toner",
+        "Hyaluronic Acid Serum",
+        "Rich Moisturizer",
+        "SPF 30-40 Sunscreen"
+      ],
+      "night_routine": [
+        "Oil Cleanser",
+        "Hydrating Toner",
+        "Peptide Serum",
+        "Rich Night Cream",
+        "Facial Oil"
+      ]    
+  },
+  "light_low_low": {
+      "morning_routine": [
+        "Cream Cleanser",
+        "Hydrating Toner",
+        "Hyaluronic Acid Serum",
+        "Rich Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night_routine": [
+        "Oil Cleanser",
+        "Hydrating Toner",
+        "Peptide Serum",
+        "Rich Night Cream",
+        "Facial Oil"
+      ]    
+  },
+  "deep_brown_black_low_low": {
+      "morning_routine": [
+        "Cream Cleanser",
+        "Hydrating Toner",
+        "Hyaluronic Acid Serum",
+        "Rich Moisturizer with Ceramides",
+        "SPF 30+ Sunscreen (Non-comedogenic)"
+      ],
+      "night_routine": [
+        "Cleansing Balm",
+        "Hydrating Toner",
+        "Peptide Serum",
+        "Rich Night Cream",
+        "Facial Oil"
+      ]
+  },
+  "fair_low_low": {
+      "morning_routine": [
+        "Cream-based Gentle Cleanser",
+        "Alcohol-free Hydrating Toner with Glycerin",
+        "Hyaluronic Acid Serum",
+        "Rich Ceramide Moisturizer",
+        "Broad Spectrum Sunscreen SPF 50"
+      ],
+      "night_routine": [
+        "Oil Cleanser",
+        "Hydrating Essence",
+        "Peptide Serum",
+        "Thick Barrier Repair Cream",
+        "Facial Oil (such as Rosehip or Squalane)"
+      ]    
+  },
+  "medium_low_medium": {
+      "morning_routine": [
+        "Gentle Hydrating Cleanser",
+        "Hydrating Toner",
+        "Vitamin C Serum",
+        "Medium-weight Moisturizer",
+        "SPF 30-40 Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Hydrating Toner",
+        "Niacinamide Serum",
+        "Medium-weight Night Cream"
+      ]
+  },
+  "light_low_medium": {
+    "morning_routine": [
+      "Gentle Cleanser",
+      "Alcohol-free Toner",
+      "Vitamin C Serum",
+      "Lightweight Moisturizer",
+      "Broad Spectrum Sunscreen (SPF 30+)"
+    ],
+    "night_routine": [
+      "Double Cleanse (Oil-based then Gentle Cleanser)",
+      "Hydrating Toner",
+      "Brightening Serum or Retinol (if not sensitive)",
+      "Rich Moisturizer or Overnight Mask"
+    ]
+  },
+  "olive_low_medium": {
+      "morning_routine": [
+        "Gentle Hydrating Cleanser",
+        "Hydrating Toner",
+        "Vitamin C Serum",
+        "Medium-weight Moisturizer",
+        "SPF 40-50 Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Hydrating Toner",
+        "Niacinamide Serum",
+        "Medium-weight Night Cream"
+      ]    
+  },
+  "deep_brown_black_low_medium": {
+      "morning_routine": [
+        "Gentle Hydrating Cleanser",
+        "Hydrating Toner",
+        "Vitamin C Serum",
+        "Medium-weight Moisturizer",
+        "SPF 30+ Sunscreen (Non-comedogenic)"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Hydrating Toner",
+        "Niacinamide Serum",
+        "Medium-weight Night Cream"
+      ]    
+  },
+  "olive_low_high": {
+      "morning_routine": [
+        "Gentle Gel Cleanser",
+        "Hydrating Toner",
+        "Hyaluronic Acid Serum",
+        "Oil-free Moisturizer",
+        "Lightweight SPF 30+"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Hydrating Toner",
+        "Niacinamide Serum",
+        "Lightweight Gel Moisturizer"
+      ]    
+  },
+  "fair_low_medium": {
+      "morning_routine": [
+        "Gentle Hydrating Cleanser",
+        "Rose Water Toner",
+        "Vitamin C Serum (low concentration)",
+        "Lightweight Ceramide Moisturizer",
+        "SPF 50 Physical Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse (Micellar Water + Cream Cleanser)",
+        "Hydrating Toner",
+        "Niacinamide Serum",
+        "Ceramide Night Cream",
+        "Occlusive Balm on Dry Areas Only"
+      ]    
+  },
+  "medium_low_high": {
+      "morning_routine": [
+        "Gentle Gel Cleanser",
+        "Hydrating Toner",
+        "Hyaluronic Acid Serum",
+        "Oil-free Moisturizer",
+        "Lightweight SPF 30-40"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Hydrating Toner",
+        "Niacinamide Serum",
+        "Lightweight Gel Moisturizer"
+      ]    
+  },
+  "tan_brown_low_medium": {
+      "morning_routine": [
+        "Gentle Hydrating Cleanser",
+        "Hydrating Toner",
+        "Vitamin C Serum",
+        "Medium-weight Moisturizer",
+        "SPF 30+ Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Hydrating Toner",
+        "Niacinamide Serum",
+        "Medium-weight Night Cream"
+      ]    
+  },
+  "tan_brown_low_high": {
+      "morning_routine": [
+        "Gentle Gel Cleanser",
+        "Hydrating Toner",
+        "Hyaluronic Acid Serum",
+        "Oil-free Moisturizer",
+        "Lightweight SPF 30+"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Hydrating Toner",
+        "Niacinamide Serum",
+        "Lightweight Gel Moisturizer"
+      ]    
+  },
+  "deep_brown_black_low_high": {
+      "morning_routine": [
+        "Gentle Gel Cleanser",
+        "Hydrating Toner",
+        "Hyaluronic Acid Serum",
+        "Oil-free Moisturizer",
+        "Lightweight SPF 30+ (Non-comedogenic)"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Hydrating Toner",
+        "Niacinamide Serum",
+        "Lightweight Gel Moisturizer"
+      ]    
+  },
+  "fair_low_high": {
+      "morning_routine": [
+        "Gentle Gel Cleanser",
+        "Alcohol-free Balancing Toner",
+        "Hyaluronic Acid Serum",
+        "Oil-free Moisturizer",
+        "SPF 50 Lightweight Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse (Micellar Water + Gel Cleanser)",
+        "Hydrating Toner",
+        "Niacinamide Serum",
+        "Lightweight Gel Moisturizer",
+        "Spot Treatment with Salicylic Acid"
+      ]    
+  },
+  "light_low_high": {
+      "morning_routine": [
+        "Gentle Gel Cleanser",
+        "Hydrating Toner",
+        "Hyaluronic Acid Serum",
+        "Oil-free Moisturizer",
+        "Lightweight SPF 40"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Hydrating Toner",
+        "Niacinamide Serum",
+        "Lightweight Gel Moisturizer"
+      ]    
+  },
+  "light_medium_low": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Hydrating Toner",
+        "Vitamin C Serum",
+        "Medium-weight Moisturizer",
+        "SPF 40 Sunscreen"
+      ],
+      "night_routine": [
+        "Gentle Cleanser",
+        "Hydrating Toner",
+        "Retinol Serum (Low Concentration)",
+        "Medium-weight Night Cream"
+      ]    
+  },
+  "tan_brown_medium_low": {
+    "morning_routine": [
+          "Gentle Cleanser",
+          "Brightening Toner",
+          "Vitamin C Serum",
+          "Medium-weight Moisturizer",
+          "SPF 30+ Sunscreen"
+        ],
+        "night_routine": [
+          "Gentle Cleanser",
+          "Brightening Toner",
+          "Retinol Serum (Low Concentration)",
+          "Medium-weight Night Cream"
+        ]      
+  },
+  "fair_medium_low": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Hydrating Toner",
+        "Vitamin C Serum",
+        "Medium-weight Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night_routine": [
+        "Cream Cleanser",
+        "Hydrating Toner",
+        "Retinol Serum (Low Concentration)",
+        "Peptide Night Cream"
+      ]    
+  },
+  "olive_medium_low": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Vitamin C Serum",
+        "Medium-weight Moisturizer",
+        "SPF 30+ Sunscreen"
+      ],
+      "night_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Retinol Serum (Low Concentration)",
+        "Medium-weight Night Cream"
+      ]    
+  },
+  "fair_high_low": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Antioxidant Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night_routine": [
+        "Gentle Cleanser",
+        "Antioxidant Toner",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "medium_medium_low": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Vitamin C Serum",
+        "Medium-weight Moisturizer",
+        "SPF 30-40 Sunscreen"
+      ],
+      "night_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Retinol Serum (Low Concentration)",
+        "Medium-weight Night Cream"
+      ]    
+  },
+  "medium_high_low": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30-40 Sunscreen"
+      ],
+      "night_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "light_medium_medium": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 40 Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Balancing Toner",
+        "Retinol Serum",
+        "Medium-weight Night Cream"
+      ]
+  },
+  "fair_medium_medium": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Hydrating Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse (Micellar Water + Cleanser)",
+        "Hydrating Toner",
+        "Retinol Serum (2-3x/week)",
+        "Medium-weight Night Cream"
+      ]    
+  },
+  "deep_brown_black_medium_medium": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30+ Sunscreen (Non-comedogenic)"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Balancing Toner",
+        "Retinol Serum (2-3x/week)",
+        "Medium-weight Night Cream"
+      ]
+  },
+  "tan_brown_medium_medium": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30+ Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Balancing Toner",
+        "Retinol Serum (2-3x/week)",
+        "Medium-weight Night Cream"
+      ]    
+  },
+  "medium_medium_medium": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30-40 Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Balancing Toner",
+        "Retinol Serum (2-3x/week)",
+        "Medium-weight Night Cream"
+      ]    
+  },
+  "olive_medium_medium": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30+ Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Balancing Toner",
+        "Retinol Serum (2-3x/week)",
+        "Medium-weight Night Cream"
+      ]    
+  },
+  "deep_brown_black_medium_high": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Balancing Toner",
+        "Niacinamide Serum",
+        "Oil-free Moisturizer",
+        "Lightweight SPF 30+ (Non-comedogenic)"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "BHA Toner",
+        "Niacinamide Serum",
+        "Lightweight Gel Moisturizer"
+      ]    
+  },
+  "tan_brown_medium_high": {
+      "morning_routine": [
+        "Foam Cleanser",
+        "Oil-Control Toner",
+        "Salicylic Acid Serum",
+        "Gel Moisturizer",
+        "Mattifying Sunscreen (SPF 30+)"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Exfoliating Serum (2x/week)",
+        "Niacinamide Serum",
+        "Oil-Free Night Gel"
+      ]    
+  },
+  "medium_medium_high": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Balancing Toner",
+        "Niacinamide Serum",
+        "Oil-free Moisturizer",
+        "Lightweight SPF 30-40"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "BHA Toner",
+        "Niacinamide Serum",
+        "Lightweight Gel Moisturizer"
+      ]    
+  },
+  "olive_medium_high": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Balancing Toner",
+        "Niacinamide Serum",
+        "Oil-free Moisturizer",
+        "Lightweight SPF 30+"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "BHA Toner",
+        "Niacinamide Serum",
+        "Lightweight Gel Moisturizer"
+      ]    
+  },
+  "tan_brown_high_high": {
+      "morning_routine": [
+        "Foam Cleanser with Salicylic Acid",
+        "Oil-controlling Toner",
+        "Niacinamide Serum",
+        "Oil-free Gel Moisturizer",
+        "Mattifying SPF 30+"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Salicylic Acid Treatment",
+        "Niacinamide Serum",
+        "Oil-free Gel Moisturizer"
+      ]    
+  },
+  "olive_high_high": {
+      "morning_routine": [
+        "Foam Cleanser with Salicylic Acid",
+        "Oil-controlling Toner",
+        "Niacinamide Serum",
+        "Oil-free Gel Moisturizer",
+        "Mattifying SPF 30+"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Salicylic Acid Treatment",
+        "Niacinamide Serum",
+        "Oil-free Gel Moisturizer"
+      ]    
+  },
+  "light_medium_high": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Balancing Toner",
+        "Niacinamide Serum",
+        "Oil-free Moisturizer",
+        "Lightweight SPF 40"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "BHA Toner",
+        "Niacinamide Serum",
+        "Lightweight Gel Moisturizer"
+      ]    
+  },
+  "fair_medium_high": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Witch Hazel Toner (Alcohol-free)",
+        "Niacinamide Serum",
+        "Oil-free Moisturizer",
+        "Mattifying SPF 50"
+      ],
+      "night_routine": [
+        "Double Cleanse (Micellar Water + Foam Cleanser)",
+        "BHA Toner",
+        "Niacinamide Serum",
+        "Lightweight Gel Moisturizer"
+      ]    
+  },
+  "deep_brown_black_high_low": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30+ Sunscreen (Non-comedogenic)"
+      ],
+      "night_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "olive_high_low": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30+ Sunscreen"
+      ],
+      "night_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "tan_brown_high_low": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30+ Sunscreen"
+      ],
+      "night_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "light_high_low": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Antioxidant Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 40 Sunscreen"
+      ],
+      "night_routine": [
+        "Gentle Cleanser",
+        "Antioxidant Toner",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "medium_high_medium": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30-40 Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Exfoliating Toner (2-3x/week)",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "fair_high_medium": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 50 Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Exfoliating Toner (2-3x/week)",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "tan_brown_high_medium": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30+ Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Exfoliating Toner (2-3x/week)",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "light_high_medium": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 40 Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Exfoliating Toner (2-3x/week)",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "olive_high_medium": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30+ Sunscreen"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Exfoliating Toner (2-3x/week)",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "deep_brown_black_high_medium": {
+      "morning_routine": [
+        "Gentle Foaming Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30+ Sunscreen (Non-comedogenic)"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Exfoliating Toner (2-3x/week)",
+        "Retinol Serum",
+        "Lightweight Night Cream"
+      ]    
+  },
+  "medium_high_high": {
+      "morning_routine": [
+        "Gel Cleanser with Salicylic Acid",
+        "Oil-controlling Toner",
+        "Niacinamide Serum",
+        "Oil-free Gel Moisturizer",
+        "Mattifying SPF 30-40"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Salicylic Acid Treatment",
+        "Niacinamide Serum",
+        "Oil-free Gel Moisturizer"
+      ]    
+  },
+  "deep_brown_black_high_high": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Balancing Toner",
+        "Vitamin C Serum",
+        "Lightweight Moisturizer",
+        "SPF 30+ Sunscreen (Non-comedogenic)"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Balancing Toner",
+        "Retinol Serum (2-3x/week)",
+        "Medium-weight Night Cream"
+      ]    
+  },
+  "fair_high_high": {
+      "morning_routine": [
+        "Gel Cleanser with Salicylic Acid",
+        "Oil-controlling Toner",
+        "Niacinamide Serum",
+        "Oil-free Gel Moisturizer",
+        "Mattifying SPF 50"
+      ],
+      "night_routine": [
+        "Double Cleanse (Micellar Water + Foam Cleanser)",
+        "Salicylic Acid Treatment",
+        "Niacinamide Serum",
+        "Oil-free Gel Moisturizer",
+        "Clay Mask (2x/week)"
+      ]    
+  },
+  "light_high_high": {
+      "morning_routine": [
+        "Gel Cleanser with Salicylic Acid",
+        "Oil-controlling Toner",
+        "Niacinamide Serum",
+        "Oil-free Gel Moisturizer",
+        "Mattifying SPF 40"
+      ],
+      "night_routine": [
+        "Double Cleanse",
+        "Salicylic Acid Treatment",
+        "Niacinamide Serum",
+        "Oil-free Gel Moisturizer"
+      ]    
+  },
+  "deep_brown_black_medium_low": {
+      "morning_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Vitamin C Serum",
+        "Medium-weight Moisturizer",
+        "SPF 30+ Sunscreen (Non-comedogenic)"
+      ],
+      "night_routine": [
+        "Gentle Cleanser",
+        "Brightening Toner",
+        "Retinol Serum (Low Concentration)",
+        "Medium-weight Night Cream"
+      ]    
+  }
+}
